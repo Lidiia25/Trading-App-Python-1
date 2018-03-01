@@ -1,0 +1,1 @@
+FROM python:3ADD data602-assignment1.py /RUN pip install FlaskRUN pip install pandas RUN pip install datetimeRUN pip install urlopen RUN pip install BeautifulSoupCMD [ "python", “/data602-assignment1.py" ]
